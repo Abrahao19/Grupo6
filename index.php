@@ -6,7 +6,16 @@
     <title>Projeto grupo 06</title>
 </head>
 <body>
+    <center>
     <h1>Projeto grupo 06</h1>
-    <a href="curriculo-abrahao.php">Ver currículo do Abrahão</a>
+    <h1>Currículos</h1>
+    <center>
+    <a href="curriculo-abrahao.php"><h2>Ver currículo do Abrahão</h2></a>
+    <br><!-- << Quebra de linha-->
+    <br>
+    <a href="curriculo-murillo.php"><h2>Ver currículo do Murillo</h2></a>
+    </center>
+
+
 </body>
 </html>
