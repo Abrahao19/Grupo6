@@ -15,7 +15,9 @@
     <br>
     <a href="curriculo-murillo.php"><h2>Ver currículo do Murillo</h2></a>
     </center>
-
-
+    <br><!-- << Quebra de linha-->
+    <br>
+    <a href="curriculo-andre.php"><h2>Ver currículo do André</h2></a>
+    </center>
 </body>
 </html>
