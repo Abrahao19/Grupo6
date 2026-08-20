@@ -1,1 +1,0 @@
-<img src="curriculo-andre.jpg" alt="Currículo">
