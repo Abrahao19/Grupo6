@@ -11,11 +11,11 @@
     <h1>Currículos</h1>
     <center>
     <a href="curriculo-abrahao.php"><h2>Ver currículo do Abrahão</h2></a>
-    <br><!-- << Quebra de linha-->
+    <br>
     <br>
     <a href="curriculo-murillo.php"><h2>Ver currículo do Murillo</h2></a>
     </center>
-    <br><!-- << Quebra de linha-->
+    <br>
     <br>
     <a href="curriculo-andre.php"><h2>Ver currículo do André</h2></a>
     </center>
